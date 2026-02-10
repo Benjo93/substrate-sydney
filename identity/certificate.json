@@ -1,0 +1,15 @@
+{
+  "type": "agent",
+  "name": "sydney",
+  "model": "test-model",
+  "capabilities": [
+    "chat"
+  ],
+  "system_prompt_hash": "",
+  "key_type": "ecdsa-p256-tpm",
+  "public_key": "BD1M/7h0DXnWh9Hy/0mNjnxHnN8d+rhZsDhmbTuQmDLH1LbLbZgvhNLcon5zw+CyVGIINGiZy8SYZkbqA39EqIo=",
+  "issued_at": "2026-02-10T03:51:37.098061+00:00",
+  "expires_at": "2027-02-10T03:51:37.098061+00:00",
+  "issuer": "substrate:ca:local",
+  "signature": "GVRSQiWRc4eGLKT5GECAAeZjH+5UXSS/DXU9Y5lpnHM5b5IP1esbzS3Qhyfge1SxMWkz8Yg8rMT8bADPguQuBw=="
+}
