@@ -15,10 +15,10 @@
 
 ## Action Log
 
-- **Total actions**: 8
-- **Tree size**: 8
-- **Root hash**: `e52416e6a0aa03451e549b366900e546...`
-- **Last published**: `2026-02-10T04:30:25.394134+00:00`
+- **Total actions**: 6
+- **Tree size**: 6
+- **Root hash**: `6630dd4c7cc2c0810a13988672f03b06...`
+- **Last published**: `2026-02-10T04:39:03.678869+00:00`
 
 ## Verification
 
